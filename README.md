@@ -1,0 +1,2 @@
+# GWUCybersecurityBootcampChallengesAndProjects3
+Archiving and Logging Data
