@@ -1,2 +1,16 @@
 # GWUCybersecurityBootcampChallengesAndProjects3
 Archiving and Logging Data
+Hello, Ralph!
+Congratulations on an outstanding homework assignment! You've demonstrated your archive and log management system skills!
+On the same note, you did a great job with creating, extracting, compressing, and managing tar backup archives. You were able to implement the commands to extract the Tardocs, create the Javaless archive, and ensure that Java/ is not located in the new archive. You also provided the critical analysis explanation about -x versus -c. 
+
+This is an excellent job automating tasks with cron jobs. You were able to create a cron job for backing up the /var/log/auth.log file. You've done a great job with this deliverable.
+
+Also, you have done well in writing your basic bash scripts. You were able to use commands to create the four subdirectories, a system.sh script, and a command to make the system.sh script executable.
+
+Now, you have done awesome work managing the log files! The logrotate config file edits were edited to apply the following settings: rotates weekly, rotates only the seven most recent logs, does not rotate empty logs, delays compression, and ignores missing logs!
+
+This has been an amazing start to understanding how to manage logs, research, and apply new features. Keep up the good work and this smooth flow you've established!
+-MCB
+Central Grader , Mar 15, 2023 at 7:43pm
+ main
